@@ -1,0 +1,50 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# 일반 편집기 임시 파일들
+*~
+*.swp
+*.swo
+
+# 로그 및 캐시
+*.log
+.cache/
+tmp/
+temp/
+
+# Node.js 프로젝트 관련 파일
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build output
+dist/
+build/
+
+# 기타 IDE 혹은 도구 관련
+*.sublime-project
+*.sublime-workspace
