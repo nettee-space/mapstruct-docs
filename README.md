@@ -37,6 +37,10 @@ This section will list the versions of the MapStruct library and the original do
 <br />
 <br />
 
+<p align="center">
+  <strong>Korean/국문</strong>
+</p>
+
 **언어 일람**
 
 - ⠀ [English](#english)
@@ -74,6 +78,10 @@ This section will list the versions of the MapStruct library and the original do
 
 <br />
 <br />
+
+<p align="center">
+  <strong>Japanese/日本語</strong>
+</p>
 
 **言語一覧**
 
