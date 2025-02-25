@@ -2,7 +2,7 @@
 **Language List**
 
 - ▶ English
-- ⠀ [Korean](#korean)
+- ⠀ [Korean/국문](#korean)
 - ⠀ [Japanese/日本語](#japanese)
 
 <br />
