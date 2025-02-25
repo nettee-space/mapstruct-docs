@@ -65,7 +65,7 @@ This section will list the versions of the MapStruct library and the original do
 
 이곳에 MapStruct 라이브러리 및 원본 문서의 버전을 목록으로 추가합니다.
 
-- 📂 [1.6.3](./1.6.3) (coming soon)
+- 📂 [1.6.3](./ko-kr/1.6.3) (coming soon)
 - 더 오래된 버전은 제공하지 않을 예정입니다. (No more older versions are supported.)
 
 <br />
@@ -105,7 +105,7 @@ This section will list the versions of the MapStruct library and the original do
 
 ここでは、MapStructライブラリおよび原文ドキュメントのバージョンを一覧として追加します。
 
-- 📂 [1.6.3](./1.6.3) (coming soon)
+- 📂 [1.6.3](./ja-jp/1.6.3) (coming soon)
 - 以前のバージョンは提供されません。(No more older versions are supported.)
 
 <br />
