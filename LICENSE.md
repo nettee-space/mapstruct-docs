@@ -1,10 +1,14 @@
 <a name="english"></a>
 
+<p align="center">
+  <strong>English</strong>
+</p>
+
 **Table of Languages**
 
 - ▶ English (Here)
-- [Korean/한국어](#korean)
-- [Japanese/日本語](#japanese)
+- ⠀ [Korean/국문](#korean)
+- ⠀ [Japanese/日本語](#japanese)
 
 <br />
 
@@ -54,13 +58,17 @@ Therefore, anyone is free to use, modify, and distribute this work, provided tha
 
 <a name="korean"></a>
 
+<p align="center">
+  <strong>Korean/국문</strong>
+</p>
+
 <br />
 <br />
 
 **Table of Languages**
 
 - ⠀ [English](#english)
-- ▶ Korean/한국어 (Here)
+- ▶ Korean/국문 (Here)
 - ⠀ [Japanese/日本語](#japanese)
 
 <br />
@@ -120,13 +128,17 @@ Therefore, anyone is free to use, modify, and distribute this work, provided tha
 
 <a name="japanese"></a>
 
+<p align="center">
+  <strong>Japanese/日本語</strong>
+</p>
+
 <br />
 <br />
 
 **Table of Languages**
 
-- [English](#english)
-- [Korean/한국어](#korean)
+- ⠀ [English](#english)
+- ⠀ [Korean/국문](#korean)
 - ▶ Japanese/日本語 (ここ)
 
 <br />
