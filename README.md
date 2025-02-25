@@ -1,4 +1,9 @@
 <a name="english"></a>
+
+<p align="center">
+  <strong>English</strong>
+</p>
+
 **Language List**
 
 - ▶ English
