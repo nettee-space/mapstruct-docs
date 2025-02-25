@@ -54,7 +54,7 @@ Therefore, anyone is free to use, modify, and distribute this work, provided tha
 
 <br />
 
-#
+# <!-- thin hr -->
 
 <a name="korean"></a>
 
@@ -124,7 +124,7 @@ Therefore, anyone is free to use, modify, and distribute this work, provided tha
 2. **동일조건 변경 허용(ShareAlike):** 수정하거나 번역한 저작물 역시 CC BY-SA 4.0 라이선스 하에 배포할 것.
 3. **변경 사항 명시:** 번역 또는 수정된 부분이 있다면 이를 명확하게 표시할 것.
 
-##
+## <!-- thin hr -->
 
 <a name="japanese"></a>
 
