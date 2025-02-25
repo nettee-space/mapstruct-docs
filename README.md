@@ -23,7 +23,7 @@ It is distributed under the same [CC BY-SA 4.0 license](https://creativecommons.
 
 This section will list the versions of the MapStruct library and the original documentation.
 
-- 📂 [1.6.3](./1.6.3) (coming soon)
+- 📂 [1.6.3](https://mapstruct.org/documentation/stable/reference/html) (latest)
 - Older versions will not be provided. (No more older versions are supported.)
 
 <br />
