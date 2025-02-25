@@ -7,7 +7,7 @@
 
 <br />
 
-# MapStruct Official Documentation Translation Project
+# MapStruct Documentation Translation Project
 
 This project is a translation of the [MapStruct Reference Documentation](https://mapstruct.org/documentation/stable/reference/html).  
 It is distributed under the same [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) as the original text. For detailed license information, please refer to the [LICENSE](./LICENSE.md).
