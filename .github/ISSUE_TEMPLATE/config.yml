@@ -1,1 +1,8 @@
 blank_issues_enabled: false
+contact_links:
+  - name: 💬 Contact to Silberbullet
+    url: https://github.com/silberbullet
+    about: No silver bullet.
+  - name: 💬 Contact to Merge Simpson
+    url: https://github.com/merge-simpson
+    about: As Marge Simpson lives in Springfield, I usually work in the '🍃 Spring' field.
