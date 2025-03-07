@@ -1,4 +1,4 @@
-<a name="english"></a>
+<a id="english"></a>
 
 <p align="center">
   <strong>English</strong>
@@ -37,7 +37,7 @@ This section will list the versions of the MapStruct library and the original do
 
 ##
 
-<a name="korean"></a>
+<a id="korean"></a>
 
 <br />
 <br />
@@ -79,7 +79,7 @@ This section will list the versions of the MapStruct library and the original do
 
 ##
 
-<a name="japanese"></a>
+<a id="japanese"></a>
 
 <br />
 <br />
