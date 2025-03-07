@@ -3,8 +3,8 @@
 **Table of Languages**
 
 - ▶ English
-- ⠀ [Korean](#korean)
-- ⠀ [Japanese](#japanese)
+- ⠀ [Korean/국문](#korean)
+- ⠀ [Japanese/日本語](#japanese)
 
 ---
 
@@ -111,8 +111,8 @@ _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.or
 **Table of Languages**
 
 - ⠀ [English](#english)
-- ▶ Korean
-- ⠀ [Japanese](#japanese)
+- ▶ Korean/국문
+- ⠀ [Japanese/日本語](#japanese)
 
 ---
 
@@ -217,8 +217,8 @@ _Revision 2.0, [Stumptown Syndicate](http://stumptownsyndicate.org) 이사회가
 **Table of Languages**
 
 - ⠀ [English](#english)
-- ⠀ [Korean](#korean)
-- ▶ Japanese
+- ⠀ [Korean/국문](#korean)
+- ▶ Japanese/日本語
 
 ---
 
