@@ -1,4 +1,4 @@
-<a name="english"></a>
+<a id="english"></a>
 
 **Table of Languages**
 
@@ -106,7 +106,7 @@ _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.or
 
 ---
 
-<a name="korean"></a>
+<a id="korean"></a>
 
 **Table of Languages**
 
@@ -212,7 +212,7 @@ _Revision 2.0, [Stumptown Syndicate](http://stumptownsyndicate.org) 이사회가
 
 ---
 
-<a name="japanese"></a>
+<a id="japanese"></a>
 
 **Table of Languages**
 
