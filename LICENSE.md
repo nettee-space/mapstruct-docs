@@ -1,4 +1,4 @@
-<a name="english"></a>
+<a id="english"></a>
 
 <p align="center">
   <strong>English</strong>
@@ -56,7 +56,7 @@ Therefore, anyone is free to use, modify, and distribute this work, provided tha
 
 # <!-- thin hr -->
 
-<a name="korean"></a>
+<a id="korean"></a>
 
 <p align="center">
   <strong>Korean/국문</strong>
@@ -126,7 +126,7 @@ Therefore, anyone is free to use, modify, and distribute this work, provided tha
 
 ## <!-- thin hr -->
 
-<a name="japanese"></a>
+<a id="japanese"></a>
 
 <p align="center">
   <strong>Japanese/日本語</strong>
