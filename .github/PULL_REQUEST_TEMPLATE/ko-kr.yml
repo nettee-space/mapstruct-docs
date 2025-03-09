@@ -1,0 +1,64 @@
+name: Ko-KR 번역
+description: Korean/국문 번역 시 병합 템플릿입니다.
+title: "[TRANSLATION] Ko-KR: "
+labels: ["lang: ko-kr", "type: translation"]
+projects: []
+body:
+  - type: markdown
+    attributes:
+    value: |
+      한국어로 번역 시 사용하는 PR(병합 요청) 템플릿입니다.
+  - type: input
+    id: contact
+    attributes:
+    label: Contact Details (선택 사항)
+    description: How can we get in touch with you if we need more info?
+    placeholder: ex. email@example.com
+    validations:
+    required: false
+  - type: textarea
+    id: description
+    attributes:
+    label: 어떤 작업을 하셨나요?
+    description: 어떤 챕터나 내용을 번역했는지 작성해 주세요.
+    placeholder: Tell us what you translated!
+    value: ""
+    validations:
+    required: true
+  - type: dropdown
+    id: version
+    attributes:
+    label: Version
+    multiple: true
+    description: Which versions of MapStruct did you translate this time?
+    options:
+      - 1.6.3
+    default: 0
+    validations:
+    required: true
+  - type: dropdown
+    id: languages
+    attributes:
+    label: Which languages are you seeing the problem on?
+    multiple: true
+    options:
+      - Firefox
+      - Chrome
+      - Safari
+      - Microsoft Edge
+#  - type: textarea
+#    id: logs
+#    attributes:
+#    label: Relevant log output
+#    description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+#    render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+    label: Code of Conduct
+    description: >
+      이 병합 요청(PR)을 게시하시면, 우리의 
+      [Code of Conduct](https://github.com/nettee-space/mapstruct-docs?tab=coc-ov-file#korean)에 동의하는 것으로 간주합니다.
+    options:
+      - label: 이 프로젝트의 Code of Conduct에 자동으로 동의되는 것을 인지했습니다.
+    required: true
