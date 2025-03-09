@@ -1,5 +1,5 @@
 ---
-name: "Ko-KR 번역"
+name: "Ko-KR 번역 (markdown)"
 about: Korean/국문 번역 시 병합 템플릿입니다.
 description: Korean/국문 번역 시 병합 템플릿입니다.
 title: "[TRANSLATION] Ko-KR: "
