@@ -94,6 +94,8 @@ This section will list the versions of the MapStruct library and the original do
 - ⠀ [Korean/국문](#korean)
 - ▶ Japanese/日本語
 
+<br />
+
 # MapStruct公式ドキュメント翻訳プロジェクト
 
 このプロジェクトは、[MapStruct Reference Documentation](https://mapstruct.org/documentation/stable/reference/html)の翻訳版です。  
